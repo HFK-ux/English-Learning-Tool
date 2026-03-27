@@ -1,11 +1,9 @@
 %% Explanation for my assignment
-%While working on my assignment, I sought assistance from AI tools like ChatGPT and Blackbox, and I also consulted with some friends who had previously completed the assignment when I encountered difficulties or couldn't generate code.
 %As part of my assignment, I included a spelling check and a test to determine whether the visuals we created in class were selected correctly. 
 %Additionally, I created separate rectangles for clothing, fruits, and animals, and added them to the assignment. 
 %Since individually reading out letters in the alphabet seemed tedious to me, I decided to add an alphabet song to make it more enjoyable, which I found to be more engaging. 
 %Furthermore, I wanted to add my own voice in different places and incorporate background music to make it more fun. 
-%In my code, I understand the purpose of each function and why we use them, such as the exit button, with assistance from AI. 
-%I had a lot of fun working on this assignment, and I hope it provides a pleasant evaluation for you as well. Thank you.
+%In my code, I understand the purpose of each function and why we use them, such as the exit button. 
 
 %% Welcome Screen
 clear all
